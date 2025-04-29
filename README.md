@@ -10,7 +10,7 @@ El programa ofrece un menú interactivo en consola que permite seleccionar y eje
 
 ---
 
-## 🧪 Ejercicios disponibles
+## 🧪 Opciones disponibles
 
 🛍️ **01** – Ingresar compra
 🔚 **00** – Salir
@@ -20,9 +20,9 @@ El programa ofrece un menú interactivo en consola que permite seleccionar y eje
 ## ⚙️ Tecnologías y conceptos aplicados
 
 - 💻 Lenguaje: **Java**
-- 🔀 OOP: `Herencia`,`Polimorfismo`, `Sobreescritura`
+- 🧩 OOP: `Herencia`,`Polimorfismo`, `Sobreescritura`
 - 📋 Listas: `List`, `ArrayList`
-- 🔍 Condicionales: `if`, `else`
+- 🔀 Condicionales: `if`, `else`
 - 📥 Entrada y salida de datos por consola
 
 ---
